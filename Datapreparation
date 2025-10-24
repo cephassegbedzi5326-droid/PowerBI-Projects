@@ -1,1 +1,301 @@
-
+Record_ID	Date	Farmer_Name	Region	Crop_Type	Quantity_Harvested	Unit_Price	Total_Value	Buyer	Payment_Status
+R4183	Wednesday, 3 January 2024	Adwoa Konadu	Volta	Cocoa	2332	37.43	5319.71	Cooperative	Paid
+R4105	Sunday, 7 January 2024	Kwaku Manu	Eastern	unknown	2332	5.85	5319.71	Export Company	unknown
+R4246	Saturday, 13 January 2024	Yaw Owusu	Eastern	Cocoa	2332	19.51	5319.71	Cooperative	unknown
+R4184	Tuesday, 16 January 2024	Afua Serwaa	Northern	Cocoa	2332	4.93	5319.71	unknown	Pending
+R4266	Wednesday, 17 January 2024	Afua Serwaa	Eastern	Cocoa	2332	48.19	5319.71	unknown	Paid
+R4153	Thursday, 18 January 2024	Yaw Owusu	Greater Accra	Plantain	2332	32.17	5319.71	unknown	Paid
+R4194	Sunday, 21 January 2024	Adwoa Konadu	Eastern	Cocoa	2332	9.18	5319.71	unknown	Unpaid
+R4260	Monday, 22 January 2024	Yaw Owusu	Volta	Rice	2332	11.28	5319.71	Export Company	unknown
+R4261	Saturday, 27 January 2024	Afua Serwaa	Ashanti	Maize	2332	11.28	5319.71	unknown	unknown
+R4279	Saturday, 27 January 2024	Adwoa Konadu	Ashanti	Rice	2332	7.06	5319.71	unknown	Pending
+R4016	Saturday, 27 January 2024	Afua Serwaa	Northern	unknown	2332	18.77	5319.71	Export Company	Paid
+R4174	Sunday, 28 January 2024	Afua Serwaa	Volta	Plantain	2332	49.86	5319.71	Market Trader	Paid
+R4057	Tuesday, 30 January 2024	Yaw Owusu	Greater Accra	unknown	2332	40.29	5319.71	Market Trader	Pending
+R4069	Wednesday, 31 January 2024	Kojo Antwi	Volta	Plantain	2332	13.31	5319.71	unknown	Pending
+R4090	Saturday, 3 February 2024	Adwoa Konadu	Volta	Cocoa	2332	41.24	5319.71	Cooperative	unknown
+R4125	Saturday, 3 February 2024	Adwoa Konadu	Eastern	Rice	2332	31.23	5319.71	Export Company	unknown
+R4207	Monday, 5 February 2024	Adwoa Konadu	Greater Accra	Maize	2332	6.59	5319.71	Export Company	Paid
+R4237	Saturday, 10 February 2024	Yaw Owusu	Volta	Rice	2332	47.4	5319.71	Export Company	Paid
+R4141	Sunday, 11 February 2024	Afua Serwaa	Northern	Plantain	2332	2.47	5319.71	Export Company	Paid
+R4285	Monday, 12 February 2024	Adwoa Konadu	Eastern	Maize	2332	33.21	5319.71	Market Trader	Paid
+R4109	Monday, 12 February 2024	Adwoa Konadu	Northern	Rice	2332	3.83	5319.71	unknown	Paid
+R4247	Wednesday, 14 February 2024	Kwaku Manu	Northern	unknown	2332	19.51	5319.71	Cooperative	Pending
+R4192	Wednesday, 14 February 2024	Kojo Antwi	Volta	Rice	2332	18.23	5319.71	Cooperative	Pending
+R4081	Thursday, 15 February 2024	Kwaku Manu	Volta	Maize	2332	21.52	5319.71	Cooperative	unknown
+R4059	Friday, 16 February 2024	Afua Serwaa	Ashanti	Rice	2332	10.9	5319.71	Market Trader	Pending
+R4167	Saturday, 17 February 2024	Kojo Antwi	Ashanti	Maize	2332	49.86	5319.71	unknown	Unpaid
+R4227	Monday, 19 February 2024	Kwaku Manu	Northern	unknown	2332	31.39	5319.71	Market Trader	unknown
+R4181	Monday, 19 February 2024	Adwoa Konadu	Eastern	Maize	2332	17.37	5319.71	unknown	unknown
+R4170	Thursday, 22 February 2024	Adwoa Konadu	Ashanti	Rice	2332	49.86	5319.71	unknown	unknown
+R4004	Friday, 23 February 2024	Kojo Antwi	Northern	Cocoa	2332	24.4	5319.71	Export Company	Paid
+R4103	Saturday, 24 February 2024	Afua Serwaa	Volta	Maize	2332	5.85	5319.71	Export Company	Pending
+R4063	Tuesday, 27 February 2024	Kwaku Manu	Ashanti	Rice	2332	28.89	5319.71	Market Trader	unknown
+R4190	Tuesday, 27 February 2024	Afua Serwaa	Eastern	Maize	2332	9.3	5319.71	Export Company	Paid
+R4100	Wednesday, 28 February 2024	Kwaku Manu	Northern	Rice	2332	26.09	5319.71	unknown	Paid
+R4248	Wednesday, 28 February 2024	Yaw Owusu	Greater Accra	Cocoa	2332	22.82	5319.71	Export Company	Paid
+R4039	Friday, 1 March 2024	Kwaku Manu	Greater Accra	Cocoa	2332	17.45	5319.71	Cooperative	Pending
+R4273	Saturday, 2 March 2024	Kojo Antwi	Eastern	Maize	2332	5.18	5319.71	unknown	Pending
+R4043	Sunday, 3 March 2024	Kojo Antwi	Greater Accra	Rice	2332	28.9	5319.71	Export Company	Pending
+R4143	Monday, 4 March 2024	Afua Serwaa	Ashanti	Maize	2332	10.8	5319.71	Market Trader	unknown
+R4191	Wednesday, 6 March 2024	Yaw Owusu	Northern	Rice	2332	34.7	5319.71	Cooperative	Pending
+R4219	Saturday, 9 March 2024	Yaw Owusu	Volta	Rice	2332	39.81	5319.71	unknown	Unpaid
+R4252	Sunday, 10 March 2024	Adwoa Konadu	Ashanti	Cocoa	2332	4.13	5319.71	unknown	Paid
+R4095	Friday, 15 March 2024	Kojo Antwi	Ashanti	Cocoa	2332	44.68	5319.71	Cooperative	Paid
+R4018	Monday, 18 March 2024	Kojo Antwi	Greater Accra	unknown	2332	6.11	5319.71	Export Company	unknown
+R4196	Saturday, 23 March 2024	Yaw Owusu	Greater Accra	Maize	2332	39.73	5319.71	Export Company	Pending
+R4162	Monday, 25 March 2024	Yaw Owusu	Ashanti	Cocoa	2332	15.82	5319.71	unknown	Unpaid
+R4275	Thursday, 28 March 2024	Yaw Owusu	Eastern	Rice	2332	3.38	5319.71	Market Trader	unknown
+R4049	Sunday, 31 March 2024	Afua Serwaa	Eastern	Maize	2332	18.77	5319.71	unknown	Pending
+R4124	Monday, 1 April 2024	Adwoa Konadu	Greater Accra	Maize	2332	31.23	5319.71	Market Trader	Pending
+R4073	Friday, 5 April 2024	Kojo Antwi	Volta	Rice	2332	13.31	5319.71	Cooperative	unknown
+R4186	Monday, 8 April 2024	Yaw Owusu	Northern	unknown	2332	10.96	5319.71	unknown	Paid
+R4126	Tuesday, 9 April 2024	Adwoa Konadu	Volta	Maize	2332	12.87	5319.71	unknown	unknown
+R4146	Thursday, 11 April 2024	Yaw Owusu	Northern	Rice	2332	44.7	5319.71	Market Trader	Pending
+R4189	Friday, 12 April 2024	Yaw Owusu	Greater Accra	Plantain	2332	9.3	5319.71	Export Company	Pending
+R4044	Sunday, 14 April 2024	Adwoa Konadu	Eastern	Plantain	2332	34.5	5319.71	Cooperative	Paid
+R4277	Monday, 15 April 2024	Kojo Antwi	Volta	Maize	2332	20.44	5319.71	Export Company	unknown
+R4006	Wednesday, 17 April 2024	Kwaku Manu	Volta	Maize	2332	33.68	5319.71	unknown	Paid
+R4185	Tuesday, 23 April 2024	Kojo Antwi	Northern	Rice	2332	10.96	5319.71	Export Company	Pending
+R4222	Monday, 29 April 2024	Yaw Owusu	Volta	Maize	2332	45.82	5319.71	Cooperative	Paid
+R4203	Wednesday, 1 May 2024	Kojo Antwi	Greater Accra	Rice	2332	25.78	5319.71	Market Trader	unknown
+R4234	Friday, 3 May 2024	Yaw Owusu	Greater Accra	Rice	2332	44.22	5319.71	Export Company	unknown
+R4138	Friday, 3 May 2024	Yaw Owusu	Ashanti	Maize	2332	41.34	5319.71	unknown	Paid
+R4020	Monday, 6 May 2024	Yaw Owusu	Volta	unknown	2332	10.88	5319.71	Market Trader	Paid
+R4120	Wednesday, 8 May 2024	Yaw Owusu	Eastern	Cocoa	2332	44.11	5319.71	unknown	unknown
+R4005	Friday, 10 May 2024	Yaw Owusu	Greater Accra	Cocoa	2332	24.4	5319.71	unknown	Paid
+R4240	Thursday, 16 May 2024	Afua Serwaa	Eastern	Cocoa	2332	3.11	5319.71	unknown	Pending
+R4158	Thursday, 16 May 2024	Yaw Owusu	Northern	Maize	2332	49.85	5319.71	unknown	Pending
+R4171	Friday, 17 May 2024	Adwoa Konadu	Volta	unknown	2332	49.86	5319.71	Export Company	Unpaid
+R4200	Sunday, 19 May 2024	Adwoa Konadu	Greater Accra	Plantain	2332	25.78	5319.71	Export Company	unknown
+R4041	Monday, 20 May 2024	Adwoa Konadu	Greater Accra	Cocoa	2332	39.43	5319.71	unknown	Unpaid
+R4218	Thursday, 23 May 2024	Afua Serwaa	Eastern	Rice	2332	23.3	5319.71	Export Company	Pending
+R4055	Friday, 24 May 2024	Kwaku Manu	Greater Accra	Cocoa	2332	49.41	5319.71	Market Trader	Pending
+R4084	Thursday, 30 May 2024	Yaw Owusu	Volta	Rice	2332	18.69	5319.71	Export Company	unknown
+R4096	Thursday, 30 May 2024	Kojo Antwi	Ashanti	Maize	2332	44.68	5319.71	unknown	Pending
+R4232	Friday, 31 May 2024	Kojo Antwi	Eastern	Cocoa	2332	20.18	5319.71	Cooperative	Unpaid
+R4123	Monday, 3 June 2024	Adwoa Konadu	Eastern	Cocoa	2332	17.12	5319.71	unknown	Pending
+R4023	Tuesday, 4 June 2024	Adwoa Konadu	Greater Accra	Maize	2332	30.8	5319.71	Cooperative	Pending
+R4036	Thursday, 6 June 2024	Kojo Antwi	Ashanti	Rice	2332	32.49	5319.71	Export Company	Paid
+R4148	Thursday, 6 June 2024	Adwoa Konadu	Greater Accra	Plantain	2332	10.42	5319.71	Market Trader	Unpaid
+R4070	Wednesday, 12 June 2024	Kwaku Manu	Volta	Cocoa	2332	13.31	5319.71	unknown	Unpaid
+R4031	Thursday, 13 June 2024	Adwoa Konadu	Ashanti	Maize	2332	36.65	5319.71	Cooperative	Paid
+R4282	Friday, 14 June 2024	Kojo Antwi	Greater Accra	Cocoa	2332	33.21	5319.71	Export Company	Pending
+R4094	Sunday, 16 June 2024	Kwaku Manu	Greater Accra	Rice	2332	44.68	5319.71	Market Trader	Unpaid
+R4292	Wednesday, 19 June 2024	Kojo Antwi	Ashanti	Maize	2332	3.61	5319.71	Cooperative	Unpaid
+R4019	Sunday, 23 June 2024	Yaw Owusu	Northern	unknown	2332	37.7	5319.71	unknown	Pending
+R4201	Monday, 24 June 2024	Kojo Antwi	Northern	Rice	2332	25.78	5319.71	unknown	Paid
+R4221	Sunday, 30 June 2024	Kwaku Manu	Eastern	Maize	2332	5.84	5319.71	Market Trader	Unpaid
+R4179	Sunday, 30 June 2024	Kojo Antwi	Greater Accra	Cocoa	2332	17.37	5319.71	unknown	Unpaid
+R4267	Tuesday, 2 July 2024	Kwaku Manu	Ashanti	Rice	2332	48.19	5319.71	unknown	Pending
+R4034	Wednesday, 3 July 2024	Kojo Antwi	Northern	Rice	2332	32.49	5319.71	unknown	Paid
+R4284	Tuesday, 9 July 2024	Kojo Antwi	Ashanti	Cocoa	2332	33.21	5319.71	unknown	Unpaid
+R4047	Wednesday, 17 July 2024	Adwoa Konadu	Ashanti	Rice	2332	16.91	5319.71	unknown	Paid
+R4091	Thursday, 18 July 2024	Afua Serwaa	Northern	Cocoa	2332	41.24	5319.71	unknown	Pending
+R4119	Sunday, 21 July 2024	Kojo Antwi	Ashanti	Maize	2332	44.11	5319.71	Cooperative	Unpaid
+R4000	Monday, 22 July 2024	Kojo Antwi	Volta	Maize	2332	18.07	5319.71	unknown	Pending
+R4238	Wednesday, 24 July 2024	Afua Serwaa	Ashanti	Rice	2332	1.99	5319.71	unknown	unknown
+R4214	Friday, 26 July 2024	Adwoa Konadu	Volta	Cocoa	2332	34.61	5319.71	Cooperative	unknown
+R4169	Tuesday, 30 July 2024	Afua Serwaa	Eastern	Maize	2332	49.86	5319.71	Market Trader	Pending
+R4290	Sunday, 4 August 2024	Kwaku Manu	Northern	Maize	2332	8.94	5319.71	unknown	Unpaid
+R4082	Wednesday, 7 August 2024	Yaw Owusu	Eastern	Rice	2332	26.03	5319.71	Cooperative	Unpaid
+R4107	Thursday, 8 August 2024	Kwaku Manu	Volta	Cocoa	2332	38.22	5319.71	Export Company	unknown
+R4187	Monday, 12 August 2024	Adwoa Konadu	Eastern	Maize	2332	9.3	5319.71	Export Company	Unpaid
+R4092	Tuesday, 13 August 2024	Kwaku Manu	Volta	Rice	2332	41.24	5319.71	unknown	Unpaid
+R4258	Wednesday, 14 August 2024	Yaw Owusu	Volta	unknown	2332	45.49	5319.71	unknown	Paid
+R4231	Tuesday, 20 August 2024	Kojo Antwi	Greater Accra	Maize	2332	20.18	5319.71	Cooperative	unknown
+R4242	Thursday, 22 August 2024	Kojo Antwi	Northern	Cocoa	2332	44.65	5319.71	unknown	Unpaid
+R4236	Sunday, 1 September 2024	Adwoa Konadu	Eastern	unknown	2332	44.92	5319.71	unknown	Pending
+R4245	Friday, 6 September 2024	Afua Serwaa	Eastern	Maize	2332	36.38	5319.71	Export Company	Unpaid
+R4263	Sunday, 8 September 2024	Adwoa Konadu	Ashanti	Rice	2332	34.98	5319.71	unknown	Paid
+R4204	Thursday, 12 September 2024	Kojo Antwi	Eastern	Rice	2332	41.72	5319.71	unknown	unknown
+R4075	Saturday, 14 September 2024	Kojo Antwi	Northern	Cocoa	2332	13.31	5319.71	Export Company	Unpaid
+R4060	Saturday, 14 September 2024	Yaw Owusu	Northern	Maize	2332	10.9	5319.71	unknown	Pending
+R4149	Sunday, 15 September 2024	Adwoa Konadu	Northern	Rice	2332	34.2	5319.71	unknown	Paid
+R4276	Tuesday, 24 September 2024	Afua Serwaa	Ashanti	Rice	2332	33.77	5319.71	unknown	Unpaid
+R4199	Wednesday, 25 September 2024	Yaw Owusu	Ashanti	Cocoa	2332	25.78	5319.71	unknown	Unpaid
+R4172	Thursday, 26 September 2024	Yaw Owusu	Greater Accra	Cocoa	2332	49.86	5319.71	unknown	Pending
+R4022	Sunday, 29 September 2024	Yaw Owusu	Ashanti	Rice	2332	15.18	5319.71	Cooperative	Unpaid
+R4085	Sunday, 6 October 2024	Yaw Owusu	Eastern	Rice	2332	34.91	5319.71	unknown	Unpaid
+R4054	Tuesday, 15 October 2024	Kwaku Manu	Ashanti	Maize	2332	49.41	5319.71	Cooperative	Pending
+R4243	Saturday, 19 October 2024	Adwoa Konadu	Volta	Rice	2332	29.12	5319.71	Market Trader	Pending
+R4226	Thursday, 24 October 2024	Yaw Owusu	Northern	Maize	2332	37.12	5319.71	Cooperative	Unpaid
+R4116	Saturday, 26 October 2024	Yaw Owusu	Ashanti	Plantain	2332	26.25	5319.71	Market Trader	unknown
+R4072	Sunday, 27 October 2024	Yaw Owusu	Volta	Cocoa	2332	13.31	5319.71	Market Trader	Pending
+R4026	Monday, 28 October 2024	Yaw Owusu	Eastern	unknown	2332	6.71	5319.71	unknown	Pending
+R4210	Tuesday, 29 October 2024	Adwoa Konadu	Volta	Maize	2332	45.49	5319.71	Export Company	unknown
+R4099	Tuesday, 29 October 2024	Afua Serwaa	Eastern	Cocoa	2332	35.01	5319.71	Market Trader	unknown
+R4068	Thursday, 31 October 2024	Kojo Antwi	Volta	Plantain	2332	16.31	5319.71	Export Company	Unpaid
+R4163	Wednesday, 6 November 2024	Afua Serwaa	Ashanti	Plantain	2332	15.82	5319.71	Export Company	unknown
+R4208	Monday, 18 November 2024	Kojo Antwi	Northern	Plantain	2332	6.59	5319.71	unknown	unknown
+R4058	Tuesday, 19 November 2024	Kojo Antwi	Greater Accra	Plantain	2332	10.9	5319.71	Cooperative	Paid
+R4264	Tuesday, 26 November 2024	Afua Serwaa	Greater Accra	Rice	2332	30.04	5319.71	unknown	unknown
+R4177	Tuesday, 26 November 2024	Afua Serwaa	Greater Accra	Rice	2332	32.9	5319.71	Market Trader	unknown
+R4224	Tuesday, 26 November 2024	Kwaku Manu	Northern	unknown	2332	44.63	5319.71	Cooperative	unknown
+R4053	Sunday, 1 December 2024	Adwoa Konadu	Northern	Rice	2332	49.41	5319.71	Market Trader	unknown
+R4197	Thursday, 5 December 2024	Afua Serwaa	Volta	Cocoa	2332	36.95	5319.71	unknown	Paid
+R4046	Sunday, 8 December 2024	Adwoa Konadu	Northern	Cocoa	2332	9.33	5319.71	Export Company	unknown
+R4271	Monday, 9 December 2024	Afua Serwaa	Ashanti	Cocoa	2332	5.18	5319.71	unknown	Unpaid
+R4182	Tuesday, 10 December 2024	Afua Serwaa	Northern	Cocoa	2332	37.43	5319.71	Cooperative	unknown
+R4173	Tuesday, 17 December 2024	Kwaku Manu	Ashanti	Rice	2332	49.86	5319.71	Cooperative	unknown
+R4065	Sunday, 22 December 2024	Afua Serwaa	Volta	Cocoa	2332	28.89	5319.71	unknown	Unpaid
+R4188	Saturday, 28 December 2024	Adwoa Konadu	Ashanti	Maize	2332	9.3	5319.71	Export Company	unknown
+R4050	Monday, 30 December 2024	Yaw Owusu	Eastern	Cocoa	2332	10.13	5319.71	Market Trader	unknown
+R4015	Friday, 5 January 2024	Adwoa Konadu	Eastern	Maize	638	18.77	5319.71	Cooperative	Paid
+R4029	Wednesday, 10 January 2024	Kwaku Manu	Eastern	Rice	276	38.89	5319.71	Export Company	Unpaid
+R4014	Thursday, 18 January 2024	Kojo Antwi	Eastern	unknown	3531	20.36	5319.71	Cooperative	Pending
+R4164	Saturday, 20 January 2024	Afua Serwaa	Northern	Maize	4169	40.8	5319.71	Export Company	unknown
+R4228	Sunday, 21 January 2024	Adwoa Konadu	Greater Accra	Maize	4065	31.39	5319.71	unknown	Paid
+R4127	Saturday, 27 January 2024	Adwoa Konadu	Eastern	Plantain	4356	12.87	5319.71	Cooperative	Paid
+R4001	Monday, 18 March 2024	Kwaku Manu	Greater Accra	Rice	3130	18.07	5319.71	unknown	Unpaid
+R4012	Monday, 18 March 2024	Kojo Antwi	Greater Accra	unknown	2822	29.09	5319.71	Cooperative	unknown
+R4003	Sunday, 24 March 2024	Kojo Antwi	Ashanti	unknown	3412	24.4	5319.71	unknown	Pending
+R4106	Wednesday, 27 March 2024	Adwoa Konadu	Greater Accra	Maize	4755	38.22	5319.71	Export Company	Paid
+R4083	Sunday, 31 March 2024	Kwaku Manu	Ashanti	Cocoa	3779	18.69	5319.71	Export Company	unknown
+R4289	Tuesday, 9 April 2024	Kojo Antwi	Northern	Cocoa	357	45.41	5319.71	Export Company	Unpaid
+R4051	Tuesday, 16 April 2024	Adwoa Konadu	Northern	Rice	1859	37.5	5319.71	Cooperative	Pending
+R4144	Friday, 19 April 2024	Kojo Antwi	Northern	Cocoa	4475	44.7	5319.71	unknown	Paid
+R4139	Saturday, 27 April 2024	Afua Serwaa	Greater Accra	Rice	323	31.48	5319.71	unknown	Pending
+R4132	Tuesday, 30 April 2024	Yaw Owusu	Eastern	Maize	1456	45.63	5319.71	Market Trader	unknown
+R4272	Sunday, 5 May 2024	Adwoa Konadu	Eastern	Rice	2239	5.18	5319.71	unknown	Pending
+R4007	Monday, 6 May 2024	Yaw Owusu	Ashanti	Cocoa	853	33.68	5319.71	Cooperative	Pending
+R4159	Monday, 13 May 2024	Adwoa Konadu	Greater Accra	Cocoa	4845	49.85	5319.71	Cooperative	Pending
+R4089	Tuesday, 14 May 2024	Afua Serwaa	Northern	Plantain	1758	31.86	5319.71	Export Company	Paid
+R4254	Tuesday, 14 May 2024	Kojo Antwi	Ashanti	Rice	1932	9.91	5319.71	Market Trader	unknown
+R4140	Thursday, 23 May 2024	Kojo Antwi	Northern	Cocoa	313	5.16	5319.71	unknown	unknown
+R4086	Sunday, 26 May 2024	Kwaku Manu	Ashanti	Rice	3053	4.03	5319.71	Cooperative	unknown
+R4077	Thursday, 30 May 2024	Kojo Antwi	Volta	Cocoa	4162	13.31	5319.71	Export Company	unknown
+R4145	Monday, 17 June 2024	Adwoa Konadu	Greater Accra	Cocoa	2082	44.7	5319.71	unknown	Paid
+R4206	Thursday, 4 July 2024	Afua Serwaa	Volta	Maize	3247	6.59	5319.71	Export Company	Pending
+R4286	Saturday, 6 July 2024	Adwoa Konadu	Greater Accra	Maize	2368	33.21	5319.71	unknown	unknown
+R4093	Tuesday, 9 July 2024	Afua Serwaa	Greater Accra	Plantain	1873	41.24	5319.71	unknown	Pending
+R4251	Thursday, 11 July 2024	Afua Serwaa	Greater Accra	Plantain	2120	4.13	5319.71	Export Company	unknown
+R4212	Monday, 22 July 2024	Kwaku Manu	Eastern	Cocoa	1932	45.13	5319.71	Cooperative	Unpaid
+R4150	Friday, 26 July 2024	Adwoa Konadu	Eastern	Rice	4281	40.01	5319.71	unknown	Unpaid
+R4136	Tuesday, 30 July 2024	Afua Serwaa	Eastern	Cocoa	1567	12.71	5319.71	Market Trader	Pending
+R4193	Thursday, 1 August 2024	Afua Serwaa	Northern	Cocoa	4390	9.18	5319.71	Cooperative	unknown
+R4165	Friday, 2 August 2024	Afua Serwaa	Greater Accra	unknown	3673	40.8	5319.71	Cooperative	Pending
+R4175	Tuesday, 6 August 2024	Kwaku Manu	Volta	Rice	4838	49.86	5319.71	Cooperative	Paid
+R4134	Monday, 12 August 2024	Kojo Antwi	Volta	Cocoa	3774	48.36	5319.71	unknown	Paid
+R4215	Thursday, 15 August 2024	Kwaku Manu	Volta	Rice	1335	8.39	5319.71	Market Trader	Unpaid
+R4011	Friday, 23 August 2024	Kwaku Manu	Ashanti	Plantain	2503	14.11	5319.71	unknown	Unpaid
+R4294	Tuesday, 27 August 2024	Afua Serwaa	Volta	unknown	1794	3.61	5319.71	Cooperative	Unpaid
+R4129	Thursday, 12 September 2024	Afua Serwaa	Eastern	Cocoa	319	39.01	5319.71	Export Company	Pending
+R4178	Tuesday, 17 September 2024	Yaw Owusu	Greater Accra	Cocoa	961	17.37	5319.71	Export Company	Pending
+R4295	Sunday, 29 September 2024	Afua Serwaa	Ashanti	Plantain	1049	3.61	5319.71	Export Company	Unpaid
+R4021	Sunday, 29 September 2024	Kwaku Manu	Greater Accra	Plantain	3687	20.21	5319.71	unknown	Paid
+R4087	Wednesday, 2 October 2024	Kwaku Manu	Eastern	Maize	4952	38.57	5319.71	Cooperative	unknown
+R4216	Saturday, 5 October 2024	Kwaku Manu	Northern	Maize	4436	8.39	5319.71	Export Company	Pending
+R4293	Saturday, 12 October 2024	Afua Serwaa	Ashanti	Cocoa	3578	3.61	5319.71	unknown	Pending
+R4268	Wednesday, 16 October 2024	Adwoa Konadu	Northern	Rice	4751	5.18	5319.71	Export Company	Pending
+R4283	Monday, 21 October 2024	Adwoa Konadu	Ashanti	unknown	1855	33.21	5319.71	Market Trader	Pending
+R4135	Monday, 21 October 2024	Adwoa Konadu	Eastern	Maize	3991	48.36	5319.71	unknown	Unpaid
+R4074	Monday, 11 November 2024	Afua Serwaa	Volta	Plantain	75	13.31	5319.71	Cooperative	unknown
+R4223	Wednesday, 13 November 2024	Afua Serwaa	Ashanti	Cocoa	4733	45.82	5319.71	Market Trader	unknown
+R4118	Saturday, 16 November 2024	Kwaku Manu	Ashanti	Plantain	4518	44.11	5319.71	Export Company	Paid
+R4291	Wednesday, 20 November 2024	Afua Serwaa	Volta	unknown	4036	3.61	5319.71	unknown	Pending
+R4209	Sunday, 24 November 2024	Adwoa Konadu	Northern	Maize	3889	6.59	5319.71	Market Trader	Paid
+R4112	Wednesday, 4 December 2024	Kwaku Manu	Ashanti	Cocoa	3728	16.2	5319.71	unknown	Pending
+R4008	Sunday, 22 December 2024	Afua Serwaa	Volta	Maize	864	32.13	5319.71	unknown	unknown
+R4128	Thursday, 18 January 2024	Yaw Owusu	Volta	Rice	1346	39.01	3925.42	Export Company	Pending
+R4257	Tuesday, 23 January 2024	Afua Serwaa	Northern	Rice	2180	45.49	4059.97	unknown	Paid
+R4281	Sunday, 11 February 2024	Adwoa Konadu	Ashanti	Cocoa	468	14.82	7521.46	Cooperative	Unpaid
+R4265	Tuesday, 27 February 2024	Afua Serwaa	Eastern	Plantain	3191	15.42	5930.1	Cooperative	Paid
+R4052	Thursday, 29 February 2024	Afua Serwaa	Eastern	Cocoa	4722	37.5	914.69	Export Company	Unpaid
+R4035	Monday, 4 March 2024	Kojo Antwi	Eastern	Plantain	1653	32.49	6400.09	unknown	Pending
+R4255	Sunday, 21 April 2024	Afua Serwaa	Ashanti	Rice	2366	9.91	8734.32	Market Trader	Paid
+R4249	Sunday, 21 April 2024	Kwaku Manu	Northern	Maize	782	22.72	6252.31	Export Company	unknown
+R4113	Sunday, 28 April 2024	Kojo Antwi	Ashanti	Rice	2400	1.02	8057.81	Market Trader	Paid
+R4002	Monday, 29 April 2024	Yaw Owusu	Ashanti	Rice	4967	24.4	8709.66	Market Trader	Pending
+R4122	Wednesday, 8 May 2024	Yaw Owusu	Greater Accra	Cocoa	3319	2.8	6699.36	Market Trader	Pending
+R4037	Tuesday, 21 May 2024	Adwoa Konadu	Eastern	unknown	1439	17.45	8383.44	unknown	unknown
+R4230	Saturday, 25 May 2024	Afua Serwaa	Eastern	Rice	1031	2.95	5579.4	unknown	Unpaid
+R4097	Saturday, 25 May 2024	Kojo Antwi	Northern	Plantain	3825	21.16	7119.81	Market Trader	unknown
+R4278	Sunday, 2 June 2024	Kwaku Manu	Greater Accra	Cocoa	2244	7.06	9202	Market Trader	Paid
+R4180	Sunday, 16 June 2024	Adwoa Konadu	Eastern	Rice	1044	17.37	7914.51	unknown	unknown
+R4154	Monday, 8 July 2024	Yaw Owusu	Volta	Cocoa	1181	32.17	4155.27	Market Trader	Paid
+R4156	Friday, 12 July 2024	Afua Serwaa	Northern	Cocoa	1798	32.17	2173.45	unknown	Pending
+R4117	Monday, 15 July 2024	Kojo Antwi	Ashanti	Rice	2201	26.25	2290.52	unknown	unknown
+R4038	Tuesday, 23 July 2024	Afua Serwaa	Eastern	unknown	3937	17.45	782.9	unknown	Paid
+R4033	Wednesday, 31 July 2024	Kwaku Manu	Greater Accra	Cocoa	1913	32.03	8905.35	unknown	Paid
+R4032	Wednesday, 7 August 2024	Kojo Antwi	Eastern	Cocoa	2125	36.65	7131.85	unknown	Unpaid
+R4013	Thursday, 8 August 2024	Adwoa Konadu	Eastern	Plantain	2703	36.67	9725.17	Cooperative	Pending
+R4229	Tuesday, 27 August 2024	Yaw Owusu	Volta	Maize	853	37.35	3171.74	Market Trader	Unpaid
+R4269	Wednesday, 4 September 2024	Yaw Owusu	Ashanti	Maize	367	5.18	5824.7	Export Company	Paid
+R4235	Sunday, 29 September 2024	Yaw Owusu	Eastern	Cocoa	2961	35.7	4870.24	Cooperative	unknown
+R4010	Thursday, 17 October 2024	Kwaku Manu	Greater Accra	Cocoa	2497	14.11	8788.64	Export Company	Paid
+R4262	Monday, 21 October 2024	Yaw Owusu	Greater Accra	Plantain	2324	11.28	3801.03	unknown	unknown
+R4076	Sunday, 27 October 2024	Kojo Antwi	Volta	Rice	1608	13.31	1665.77	unknown	unknown
+R4114	Saturday, 16 November 2024	Kwaku Manu	Eastern	unknown	467	1.02	8485.84	Cooperative	Pending
+R4048	Saturday, 14 December 2024	Yaw Owusu	Volta	Maize	4252	5.72	4153.07	unknown	Paid
+R4168	Wednesday, 25 December 2024	Afua Serwaa	Greater Accra	Cocoa	959	49.86	8176.87	Cooperative	Paid
+R4137	Saturday, 6 January 2024	Kwaku Manu	Greater Accra	Maize	2332	28.28	1876.34	Cooperative	Pending
+R4045	Wednesday, 10 January 2024	Kojo Antwi	Ashanti	Cocoa	2332	34.5	7585.38	Cooperative	Paid
+R4102	Monday, 15 January 2024	Adwoa Konadu	Greater Accra	Rice	2332	5.85	3425.53	Cooperative	Pending
+R4115	Thursday, 18 January 2024	Yaw Owusu	Volta	Cocoa	2332	37.06	5167.95	Cooperative	Paid
+R4040	Sunday, 21 January 2024	Afua Serwaa	Greater Accra	Cocoa	2332	39.43	9076.38	Market Trader	Unpaid
+R4131	Wednesday, 31 January 2024	Afua Serwaa	Ashanti	Cocoa	2332	45.63	491.51	Export Company	unknown
+R4298	Thursday, 1 February 2024	Adwoa Konadu	Greater Accra	Rice	2332	7.32	6014.44	unknown	Unpaid
+R4198	Monday, 5 February 2024	Kojo Antwi	Eastern	Cocoa	2332	36.95	1420.85	Cooperative	Unpaid
+R4274	Tuesday, 13 February 2024	Kwaku Manu	Greater Accra	Maize	2332	5.18	3938.48	Export Company	Unpaid
+R4213	Wednesday, 21 February 2024	Afua Serwaa	Northern	Cocoa	2332	48.16	4923.2	Export Company	Pending
+R4142	Friday, 23 February 2024	Yaw Owusu	Greater Accra	Rice	2332	2.47	101.1	unknown	unknown
+R4088	Saturday, 24 February 2024	Afua Serwaa	Greater Accra	Cocoa	2332	38.57	768.7	unknown	Paid
+R4098	Monday, 11 March 2024	Adwoa Konadu	Volta	Plantain	2332	22.73	2892.44	unknown	Unpaid
+R4028	Wednesday, 13 March 2024	Yaw Owusu	Northern	Maize	2332	26.21	4984.16	unknown	unknown
+R4220	Tuesday, 19 March 2024	Kwaku Manu	Ashanti	Cocoa	2332	9.9	360.39	unknown	Unpaid
+R4009	Tuesday, 26 March 2024	Kwaku Manu	Northern	Cocoa	2332	7.91	5571.24	Cooperative	Unpaid
+R4299	Sunday, 31 March 2024	Yaw Owusu	Northern	Plantain	2332	16.67	7697.06	unknown	unknown
+R4211	Tuesday, 9 April 2024	Kwaku Manu	Greater Accra	Maize	2332	45.13	5918.5	unknown	Unpaid
+R4202	Saturday, 20 April 2024	Yaw Owusu	Volta	Rice	2332	25.78	6535.38	Market Trader	unknown
+R4217	Saturday, 4 May 2024	Afua Serwaa	Eastern	Rice	2332	23.3	5178.21	Cooperative	Paid
+R4288	Monday, 6 May 2024	Kwaku Manu	Volta	Plantain	2332	45.41	5110.63	Export Company	Pending
+R4110	Friday, 10 May 2024	Yaw Owusu	Ashanti	Rice	2332	3.83	3910.78	Market Trader	unknown
+R4176	Monday, 13 May 2024	Kwaku Manu	Volta	Cocoa	2332	32.9	3332.59	unknown	unknown
+R4250	Monday, 13 May 2024	Kojo Antwi	Eastern	Plantain	2332	22.72	2649.19	unknown	Unpaid
+R4130	Monday, 13 May 2024	Adwoa Konadu	Eastern	Cocoa	2332	45.63	9882.89	unknown	Pending
+R4133	Tuesday, 14 May 2024	Adwoa Konadu	Ashanti	Maize	2332	45.63	8035.75	Export Company	Paid
+R4101	Thursday, 23 May 2024	Kwaku Manu	Northern	Maize	2332	5.85	622.67	unknown	Pending
+R4151	Friday, 24 May 2024	Yaw Owusu	Eastern	Maize	2332	6.91	9221.25	unknown	unknown
+R4027	Friday, 24 May 2024	Adwoa Konadu	Greater Accra	Rice	2332	41.29	6973.42	Export Company	Pending
+R4071	Monday, 27 May 2024	Afua Serwaa	Ashanti	Plantain	2332	13.31	8644.32	Market Trader	Paid
+R4066	Wednesday, 29 May 2024	Adwoa Konadu	Ashanti	Maize	2332	16.31	1520.69	Export Company	unknown
+R4244	Monday, 3 June 2024	Afua Serwaa	Eastern	Maize	2332	36.38	4943.77	Market Trader	unknown
+R4259	Tuesday, 4 June 2024	Adwoa Konadu	Northern	Maize	2332	45.49	8714.06	Export Company	Pending
+R4061	Friday, 7 June 2024	Yaw Owusu	Volta	Rice	2332	10.9	6855.25	Market Trader	Unpaid
+R4025	Sunday, 9 June 2024	Afua Serwaa	Volta	Cocoa	2332	4.44	8508.9	Cooperative	Paid
+R4067	Tuesday, 18 June 2024	Afua Serwaa	Ashanti	Maize	2332	16.31	3437.2	unknown	Unpaid
+R4080	Wednesday, 19 June 2024	Kwaku Manu	Eastern	Cocoa	2332	21.52	9524.35	Market Trader	Unpaid
+R4241	Tuesday, 25 June 2024	Yaw Owusu	Northern	Cocoa	2332	3.11	1588.41	Market Trader	Pending
+R4287	Friday, 28 June 2024	Kojo Antwi	Eastern	Rice	2332	32.29	202.64	Market Trader	Paid
+R4239	Tuesday, 9 July 2024	Yaw Owusu	Greater Accra	Rice	2332	28.37	6245.97	Export Company	Paid
+R4042	Saturday, 20 July 2024	Kwaku Manu	Volta	Cocoa	2332	28.9	3006.3	unknown	Paid
+R4147	Monday, 22 July 2024	Kwaku Manu	Greater Accra	Cocoa	2332	44.7	3995.44	unknown	Pending
+R4225	Tuesday, 30 July 2024	Yaw Owusu	Eastern	Cocoa	2332	37.12	669.51	Cooperative	Pending
+R4157	Monday, 5 August 2024	Afua Serwaa	Eastern	Maize	2332	32.17	7181.85	Export Company	Unpaid
+R4078	Thursday, 8 August 2024	Kwaku Manu	Volta	Rice	2332	21.52	9507.97	Export Company	Paid
+R4270	Sunday, 11 August 2024	Adwoa Konadu	Eastern	Rice	2332	5.18	7805.78	Cooperative	unknown
+R4296	Wednesday, 14 August 2024	Kwaku Manu	Volta	Cocoa	2332	39.96	7890.01	Export Company	unknown
+R4195	Thursday, 15 August 2024	Kwaku Manu	Volta	Rice	2332	39.73	4413.47	Cooperative	Paid
+R4297	Sunday, 18 August 2024	Kojo Antwi	Eastern	Cocoa	2332	20.48	3586.55	Market Trader	unknown
+R4161	Saturday, 24 August 2024	Kojo Antwi	Greater Accra	Cocoa	2332	15.82	1616.93	Export Company	Pending
+R4155	Sunday, 25 August 2024	Yaw Owusu	Eastern	Cocoa	2332	32.17	9854.76	Export Company	Unpaid
+R4064	Tuesday, 27 August 2024	Kojo Antwi	Volta	Maize	2332	28.89	5694.18	Export Company	Paid
+R4024	Friday, 30 August 2024	Afua Serwaa	Greater Accra	Rice	2332	4.44	867.27	Export Company	Pending
+R4056	Thursday, 5 September 2024	Kwaku Manu	Northern	Rice	2332	49.41	874.13	unknown	unknown
+R4280	Monday, 9 September 2024	Adwoa Konadu	Greater Accra	Cocoa	2332	7.06	416.62	unknown	Unpaid
+R4104	Saturday, 21 September 2024	Kwaku Manu	Eastern	unknown	2332	5.85	3327.47	unknown	unknown
+R4030	Sunday, 29 September 2024	Kwaku Manu	Northern	Rice	2332	6.36	1606.42	Cooperative	Unpaid
+R4256	Monday, 30 September 2024	Adwoa Konadu	Greater Accra	Cocoa	2332	9.91	3716.17	unknown	Pending
+R4079	Monday, 7 October 2024	Kwaku Manu	Eastern	Rice	2332	21.52	2421.48	unknown	unknown
+R4160	Sunday, 13 October 2024	Kojo Antwi	Northern	Maize	2332	49.85	2283.85	unknown	Pending
+R4111	Thursday, 24 October 2024	Kwaku Manu	Ashanti	Cocoa	2332	3.83	8869.19	Market Trader	Unpaid
+R4253	Sunday, 27 October 2024	Afua Serwaa	Northern	unknown	2332	14.17	9165.87	Export Company	Paid
+R4121	Monday, 28 October 2024	Yaw Owusu	Greater Accra	Rice	2332	42.51	9241.76	Market Trader	unknown
+R4062	Tuesday, 29 October 2024	Kojo Antwi	Ashanti	Maize	2332	27.37	5486.5	unknown	Paid
+R4233	Tuesday, 29 October 2024	Kojo Antwi	Northern	Cocoa	2332	41.65	5320.61	Cooperative	Paid
+R4017	Monday, 4 November 2024	Kojo Antwi	Northern	Plantain	2332	6.11	3203.13	unknown	Pending
+R4205	Tuesday, 5 November 2024	Kojo Antwi	Northern	Maize	2332	6.59	5328.56	unknown	Unpaid
+R4152	Tuesday, 12 November 2024	Kojo Antwi	Eastern	Maize	2332	44.51	8202.26	unknown	unknown
+R4108	Sunday, 24 November 2024	Yaw Owusu	Greater Accra	Maize	2332	3.83	6392.11	Market Trader	Pending
+R4166	Thursday, 19 December 2024	Afua Serwaa	Volta	Cocoa	2332	49.86	2343.79	Export Company	unknown
